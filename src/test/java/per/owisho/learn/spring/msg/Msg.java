@@ -1,4 +1,4 @@
-package per.owisho.learnspring.msg;
+package per.owisho.learn.spring.msg;
 
 import javax.jms.Connection;
 import javax.jms.ConnectionFactory;

@@ -1,4 +1,4 @@
-package per.owisho.learnspring.msg.domain;
+package per.owisho.learn.spring.msg.domain;
 
 import java.io.Serializable;
 

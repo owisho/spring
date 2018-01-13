@@ -1,4 +1,4 @@
-package per.owisho.learnspring;
+package per.owisho.learn.spring;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package per.owisho.learnspring.msg.impl;
+package per.owisho.learn.spring.msg.impl;
 
 import javax.jms.JMSException;
 import javax.jms.Message;
@@ -11,8 +11,8 @@ import org.springframework.jms.core.JmsTemplate;
 import org.springframework.jms.core.MessageCreator;
 import org.springframework.jms.support.JmsUtils;
 
-import per.owisho.learnspring.msg.domain.Spittle;
-import per.owisho.learnspring.msg.inter.AlertService;
+import per.owisho.learn.spring.msg.domain.Spittle;
+import per.owisho.learn.spring.msg.inter.AlertService;
 
 public class AlertServiceImpl implements AlertService{
 
